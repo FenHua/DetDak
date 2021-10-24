@@ -18,9 +18,11 @@ https://arxiv.org/abs/2010.14974
 
 please cite：
 
+```
 @article{zhao2020object,
   title={Object Hider: Adversarial Patch Attack Against Object Detectors},
   author={Zhao, Yusheng and Yan, Huanqian and Wei, Xingxing},
   journal={arXiv preprint arXiv:2010.14974},
   year={2020}
 }
+```
